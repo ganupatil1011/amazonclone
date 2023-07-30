@@ -1,0 +1,77 @@
+{
+	margin:0;
+	font-family: Arial;
+	border: border-box;
+}
+
+.logo {
+ 
+	background-size: cover;
+	height: 50px;
+	width: 100%;
+	display: flex;
+	justify-content: space-evenly;
+	
+
+}
+
+.icon{
+	 background-color: black;
+    align-items: center;
+	justify-content: space-evenly;
+	height: 50px;
+	width: 100px;
+
+}
+
+.box{
+    margin-top: 10px;
+    margin-left: 35%;
+    margin-right:35%;
+    border: 2px solid skyblue;
+    height: 300px;
+    padding: 20px 26px 20px 26px;
+
+}
+
+.sign{
+	font-size: 15px;
+	font-family: Arial;
+}
+
+.email{
+	margin-top: 5px;
+	background-color: #F7FEFF;
+	border-radius: 6px;
+	box-shadow: red;
+	
+}
+
+.button{
+
+	border: 1px solid;
+	width: 296px;
+	height: 25px;
+	text-align: center;
+	padding-top: 7px;
+	background-color: #FFD814;
+	border-radius: 8px;
+
+}
+
+.a{
+	width:296px;
+	height:25px; 
+	border-radius: 6px; 
+	border: 1px solid; 
+	padding: 3px 7px;
+	box-shadow:darkred;
+}
+
+.border1:box-shadow{
+	background:color: red;
+}
+
+.border:hover{
+	background-color: yellowgreen;
+}
